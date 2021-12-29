@@ -1,4 +1,3 @@
 Hello
 Ritesh
 Saini
-Hi
